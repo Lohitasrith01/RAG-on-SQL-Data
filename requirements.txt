@@ -1,0 +1,12 @@
+# Core libraries
+streamlit                      # For building the web app
+
+# Google Cloud libraries
+google-cloud-aiplatform        # For interacting with Vertex AI
+google-auth                    # For authentication with Google Cloud
+google-auth-oauthlib           # For OAuth authentication workflows (if needed)
+google-api-core                # For core API functionality
+
+# Python libraries for additional utilities (if used)
+pandas                         # For handling tabular data
+sqlite3                        # For database interaction (part of Python's standard library)
